@@ -3,7 +3,7 @@
 
 ---
 
-- [Введение](#Home)
+- [**Введение**](#Home)
   + [Модификация с нуля](#From_Zero_to_Modding)
   + [Настройка информации о Вашей модификации](#Customizing_Your_Mod_Information)
     - [Простая настройка `build.gradle`](#Simple_build.gradle_Customizations)

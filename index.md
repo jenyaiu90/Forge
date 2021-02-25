@@ -1,5 +1,5 @@
 Главная<br>
-<small>[Далее →](Getting_Start/Home "Начало работы: Введение")</small>
+<small>[Далее →](Getting_Started/Home "Начало работы: Введение")</small>
 
 ---
 
@@ -21,10 +21,11 @@
 ## Оглавление
 - **Главная**
 - Начало работы
-  + [Введение](https://jenyaiu90.github.io/Forge/Getting_Start/Home)
-  + [Структура Вашей модификации](https://jenyaiu90.github.io/Forge/Getting_Start/Structuring_Your_Mod)
+  + [Введение](Getting_Started/Home)
+  + [Структура Вашей модификации](Getting_Started/Structuring_Your_Mod)
+  + [Проверка обновлений с Forge](Getting_Started/Forge_Update_Checker)
 - Продолжение, так сказать, следует…
 
 ---
 
-<small>[Далее →](Getting_Start/Home "Начало работы/Введение")</small>
+<small>[Далее →](Getting_Started/Home "Начало работы/Введение")</small>
