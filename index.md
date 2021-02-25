@@ -1,4 +1,4 @@
-Главная<br>
+*Главная*<br>
 <small>[Далее →](Getting_Started/Home "Начало работы: Введение")</small>
 
 ---
@@ -24,6 +24,9 @@
   + [Введение](Getting_Started/Home)
   + [Структура Вашей модификации](Getting_Started/Structuring_Your_Mod)
   + [Проверка обновлений с Forge](Getting_Started/Forge_Update_Checker)
+  + [Отладочный профилировщик](Getting_Started/Debug_Profiler)
+- Концепции
+  + [Стороны](Concepts/Sides)
 - Продолжение, так сказать, следует…
 
 ---
