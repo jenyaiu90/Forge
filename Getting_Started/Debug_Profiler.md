@@ -1,5 +1,5 @@
 [Главная](../index) → Начало работы → *Отладочный профилировщик*<br>
-<small>[← Назад](Structuring_Your_Mod "Начало работы: Проверка обновлений с Forge") | [Далее →](../Concepts/Sides "Концепции: Стороны")</small>
+<small>[← Назад](Forge_Update_Checker "Начало работы: Проверка обновлений с Forge") | [Далее →](../Concepts/Sides "Концепции: Стороны")</small>
 
 ---
 
@@ -58,4 +58,4 @@ Profiler#endSection();
 
 ---
 
-<small>[← Назад](Structuring_Your_Mod "Начало работы: Проверка обновлений с Forge") | [Далее →](../Concepts/Sides "Концепции: Стороны")</small>
+<small>[← Назад](Forge_Update_Checker "Начало работы: Проверка обновлений с Forge") | [Далее →](../Concepts/Sides "Концепции: Стороны")</small>
