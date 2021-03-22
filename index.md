@@ -6,7 +6,7 @@
 # Документация MinecraftForge
 Это перевод официальной документации [MinecraftForge](https://minecraftforge.net) — API для создания модификаций Minecraft 1.16.x. На данный момент перевод не завершён.
 
-Это документация для Forge, а **не уроки Java**, предполагается, что Вы уже владеете этим языком на достаточном уровне.
+Это документация для Forge, а **не уроки Java**, предполагается, что вы уже владеете этим языком на достаточном уровне.
 
 Официальная документация для версий 1.16.x находится [здесь](https://mcforge.readthedocs.io/en/1.16.x/), репозиторий документации на GitHub — [здесь](https://github.com/MinecraftForge/Documentation).
 
@@ -22,11 +22,13 @@
 - **Главная**
 - Начало работы
   + [Введение](Getting_Started/Home)
-  + [Структура Вашей модификации](Getting_Started/Structuring_Your_Mod)
+  + [Структура вашей модификации](Getting_Started/Structuring_Your_Mod)
   + [Проверка обновлений с Forge](Getting_Started/Forge_Update_Checker)
   + [Отладочный профилировщик](Getting_Started/Debug_Profiler)
 - Концепции
   + [Стороны](Concepts/Sides)
+  + [Ресурсы](Concepts/Resources)
+  + [Данные](Concepts/Data)
 - Продолжение, так сказать, следует…
 
 ---
