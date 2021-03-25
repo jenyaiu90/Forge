@@ -29,6 +29,7 @@
   + [Стороны](Concepts/Sides)
   + [Ресурсы](Concepts/Resources)
   + [Данные](Concepts/Data)
+  + [Регистрация](Concepts/Registries)
 - Продолжение, так сказать, следует…
 
 ---
